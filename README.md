@@ -8,7 +8,8 @@ LINE 2.
 
 HI PROGRAMER!
 
-##DEVELOPMENT AND UPDATE
+## DEVELOPMENT ENVIROMENT
 
 hi now we going to use javascript to develope the file.
 Run index.html file in the browser.
+
